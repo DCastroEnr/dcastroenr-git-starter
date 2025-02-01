@@ -1,0 +1,22 @@
+What are git commits? (git commit -m "")
+We can think about git commits as if they were snapshots of our project.
+
+What are branches in git? (git branch)
+Making a branch in git is basically creating a reference or a pointer, which
+points to a commit of another branch (like main), as well as the parent commits.
+
+What is merging in git?
+git merge integrates commits into a branch, merging creates a commit from different previous commits.
+
+What is fetching in git?
+Synchronizes remote and local repository, and downloads the remote commits into our local.
+
+What is pulling in git?
+git pull incorporates new local commits into remote repository.
+
+What is fakingTeamwork in git?
+git fakeTeamwork simulates activity on te remote repository.
+
+What is pushing in git?
+git push allows the programmer to upload local changes to the remote respository and incorporate new commits.
+
